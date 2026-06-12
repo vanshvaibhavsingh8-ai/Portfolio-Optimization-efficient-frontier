@@ -7,9 +7,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 from data import download_prices, daily_returns
-from optimization import (annualized_stats, efficient_frontier,
-                          min_variance_weights, max_sharpe_weights,
-                          portfolio_return, portfolio_vol)
+import optimization
 from backtest import walk_forward, performance_summary, RF
 
 OUT = "output"
