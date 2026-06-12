@@ -1,0 +1,4 @@
+,Ann. return,Ann. volatility,Sharpe (rf=2%),Max drawdown
+Equal-weight,0.171,0.1405,1.075,-0.2528
+Min-variance,0.1051,0.0958,0.8883,-0.2119
+Max-Sharpe,0.1497,0.1419,0.9141,-0.2533
